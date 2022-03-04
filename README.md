@@ -1,0 +1,1 @@
+# mapasdejogos.resources
